@@ -7,7 +7,6 @@ class Hand(var cards: MutableList<Card>) {
     }
 
     fun getHandValue(): Int {
-
         var result = 0
         var numOfAces = 0
 
@@ -21,7 +20,6 @@ class Hand(var cards: MutableList<Card>) {
             result -= 10
             numOfAces--
         }
-
         return result
     }
 

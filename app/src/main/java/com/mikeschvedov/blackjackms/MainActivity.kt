@@ -13,6 +13,9 @@ class MainActivity : AppCompatActivity() {
     private val dealerViewList: MutableList<TextView> = mutableListOf()
     lateinit var binding: ActivityMainBinding
 
+    //TODO read motionlayout carousel
+    //TODO show card overlapping elevation
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
@@ -155,6 +158,7 @@ class MainActivity : AppCompatActivity() {
             buttonRestart.visibility = View.GONE
             // Adding the views of the cards into lists
             // We can get all views from flow grouping
+            //TODO read about maping
             flowPlayer.referencedIds.forEach {
                 playerViewList.add(findViewById<TextView>(it))
             }
