@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/MS220/AndroidStudioProjects/BlackJackMS/app/src/main/res/drawable/background_custom.xml" value="0.3635" />
+        <entry key="..\:/Users/MS220/AndroidStudioProjects/BlackJackMS/app/src/main/res/drawable/button_restart.xml" value="0.162" />
+        <entry key="..\:/Users/MS220/AndroidStudioProjects/BlackJackMS/app/src/main/res/drawable/button_shape.xml" value="0.3635" />
+        <entry key="..\:/Users/MS220/AndroidStudioProjects/BlackJackMS/app/src/main/res/drawable/button_stand.xml" value="0.3635" />
+        <entry key="..\:/Users/MS220/AndroidStudioProjects/BlackJackMS/app/src/main/res/drawable/card_custom.xml" value="0.327" />
+        <entry key="..\:/Users/MS220/AndroidStudioProjects/BlackJackMS/app/src/main/res/drawable/exit_button.xml" value="0.2775" />
+        <entry key="..\:/Users/MS220/AndroidStudioProjects/BlackJackMS/app/src/main/res/drawable/new_game_exit.xml" value="0.2775" />
+        <entry key="..\:/Users/MS220/AndroidStudioProjects/BlackJackMS/app/src/main/res/layout/activity_in_game.xml" value="0.1" />
+        <entry key="..\:/Users/MS220/AndroidStudioProjects/BlackJackMS/app/src/main/res/layout/activity_main.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

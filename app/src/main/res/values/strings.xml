@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BlackJackMS</string>
+    <string name="player_has_21">Player has 21, executing Stand.</string>
+    <string name="start_or_exit">Start or Exit?</string>
+    <string name="hit_or_stand">Hit or Stand?</string>
+    <string name="main_title">BlackJack</string>
+    <string name="by_mike_schvedov">By Mike Schvedov</string>
+    <string name="hit_button_label">HIT</string>
+    <string name="stand_button_label">STAND</string>
+    <string name="new_game_button_label">New Game</string>
+    <string name="exit_button_label">Exit</string>
+    <string name="top_image">top image</string>
+    <string name="restart">Restart</string>
+</resources>
